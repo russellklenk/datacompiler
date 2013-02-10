@@ -3,7 +3,7 @@
   "noAnalyze"    : false,
   "preferGlobal" : false,
   "main"         : "index.js",
-  "version"      : "1.0.0",
+  "version"      : "1.0.1",
   "license"      : "Public Domain",
   "author"       : "Russell Klenk <contact@russellklenk.com>",
   "description"  : "Data Compiler helper module for content.js",
